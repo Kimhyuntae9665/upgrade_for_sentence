@@ -10,6 +10,10 @@ public class Upgrade_For_sentence {
 		}
 		
 		System.out.println(number.length);
+		
+		char[] str = {'h','e','l','l','o'};
+		System.out.println(str);
+		System.out.println(str.length);
 	}
 
 }
